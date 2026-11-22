@@ -1,0 +1,8 @@
+File: export_final.zip · chỉ kiểm ảnh: D01, D02
+Ảnh: 2 · đã có frame_meta: 2 · số đối tượng: face=2, face13=2, hand=4, person=2
+  [WARN] D01.png: eye_left=unknown nhưng không điểm left_eye_* nào có cờ occluded/outside: nếu mắt bị che thì bật occluded, nếu thấy rõ thì chọn open/closed
+Kết quả: 0 lỗi, 1 cảnh báo. Cảnh báo cần bạn tự xét, không tự động là sai.
+
+Giải thích cảnh báo D01: `eye_left=unknown` cần được rà lại trực tiếp trong CVAT. Nếu mắt bị che, bổ sung cờ `occluded/outside` cho các điểm mắt trái; nếu thấy rõ, đổi sang `open` hoặc `closed`.
+
+Theo phê duyệt của Lab Coach, bài G01 của Minh được phép dùng `child_seat.occupied=yes`.
