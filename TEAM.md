@@ -6,7 +6,7 @@ Mã bộ ảnh: **G01** · Hình thức: **cá nhân**
 |---|---|---|---|---|
 | Nguyễn Nhật Minh | 2A202603210 | có | Hân | 6 dòng đã xử lý |
 
-Ca hai bạn vẫn không thống nhất và đã hỏi coach:
+## Kết quả review chéo
 
 - Đã xử lý 6 dòng disagreement theo yêu cầu và thống nhất kết luận cho các dòng đã chọn; không có ca nào cần hỏi thêm Lab Coach.
 
